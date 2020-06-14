@@ -4,6 +4,7 @@ Performs Cut Up technique on text files to divide text into different arrangemen
 Details of Cut up method can be found in link below:
 Burroughs explains how he does Cut-Ups: 
 http://www.languageisavirus.com/creative-writing-techniques/william-s-burroughs-cut-ups.php#.XnQJ_YgzaUk
+
 Details of this program functioning is as under:
 Read text in a string from some txt file. Currently Text file is named as 'new.txt'
 Set some sentence limit for each cut piece. This can be changed by variable 'step' below. Default is 30
