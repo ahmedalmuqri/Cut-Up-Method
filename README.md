@@ -17,3 +17,7 @@ then use readability index to see which one is more readable and then output tha
 Dale Chall Readability is used for readability index.
 Details of modules used in this program can be found from link below
 https://pypi.org/project/py-readability-metrics/
+
+To Use, Simply write name of your file in variable 'filename'
+Set Number of Divisions or Partitions into which you want to divide the text in variable 'num_columns'
+Set Line length of paritioned texts in variable 'step'
