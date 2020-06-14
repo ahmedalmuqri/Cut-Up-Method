@@ -25,3 +25,5 @@ Simply write name of your file in variable 'filename'
 Set Number of Divisions or Partitions into which you want to divide the text in variable 'num_columns'
 
 Set Line length of paritioned texts in variable 'step'
+
+The output will be printed in console. You can edit code to output newly formed text into some text file or document file
